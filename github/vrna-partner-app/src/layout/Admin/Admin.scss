@@ -1,0 +1,25 @@
+$sidebarSize: 95px;
+
+.AdminContainer {
+    .ContainerLayout {
+        height: calc(100% - 60px);
+    }
+    .SideNavMain {
+        max-width       : $sidebarSize;
+        background-color: var(--bg-color);
+        min-height      : 100%;
+
+
+    }
+
+    .MainContainer {
+        width     : 100%;
+        position  : relative;
+        transition: all .1s ease-in-out;
+    }
+
+    .active {
+        color: red;
+
+    }
+}

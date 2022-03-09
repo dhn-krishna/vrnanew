@@ -1,0 +1,12 @@
+.AddContent {
+    width   : 100%;
+    position: relative;
+
+    .activeTab {
+        display: block;
+    }
+
+    .inActiveTab {
+        display: none;
+    }
+}

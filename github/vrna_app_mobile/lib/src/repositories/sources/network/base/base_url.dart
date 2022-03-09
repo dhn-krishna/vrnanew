@@ -1,0 +1,17 @@
+final auth = base + "/auth-service/user/validate";
+final registration = base + "/auth-service/user/signup";
+final registrationverify = base + "/support-service/support/email";
+final dashboardbanner = base + "/intelligence-service/intelligence/banner";
+final dashboardLatestMovie = base + "/intelligence-service/intelligence/latest";
+final dashboardTopMovie = base + "/intelligence-service/intelligence/toprated";
+final rentCard = base + "/payment-service/payment/addCustomerCard";
+final rentProcess = base + "/payment-service/payment/processPayment";
+final rentPayment = base + "/subscription-service/paidMovie/addPayment";
+final rentalMovie = base + "/intelligence-service/intelligence/rented";
+final recomendedMovie = base + "/intelligence-service/intelligence/recommend";
+final filter = base + "/content-service/movie";
+final getProfile = base + "/auth-service/user";
+final updateProfile = base + "/auth-service/user/update";
+final forgotPassword = base + "/auth-service/user/forgot";
+final forgotPasswordGetMail = base + "/support-service/support/password";
+final base = "https://prod.vrnaplex.com";

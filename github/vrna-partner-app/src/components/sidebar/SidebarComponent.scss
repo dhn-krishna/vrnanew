@@ -1,0 +1,65 @@
+.SidebarComponent {
+    height: 100%;
+
+    ul {
+        margin : 0;
+        padding: 0;
+
+        li {
+            list-style: none;
+        }
+    }
+
+
+    .hr {
+        margin : 10px 20px 20px 20px;
+        opacity: 0.1;
+    }
+
+    ul.MainMenu,
+    ul.FooterMenu {
+
+        li.ParentMenu {
+            text-align: center;
+
+            .ParentLink {
+                cursor           : pointer;
+                padding : 15px 10px;
+                color            : var(--primary-color-text);
+                text-decoration  : none;
+                border-left-width: 3px;
+                border-left-color: transparent;
+                border-left-style: solid;
+
+                i.pi {
+                    font-size: 20px;
+                }
+
+                .ParentMenuLabel {
+                    padding-top   : 5px;
+                    font-size     : 14px;
+                    font-weight   : 500;
+                    text-transform: capitalize;
+                }
+
+                &.active {
+                    color            : var(--vrna-primary);
+                    border-left-color: var(--vrna-primary);
+
+                }
+            }
+
+            &:hover {
+                background-color : #e1b9240f;
+                border-left-color: var(--primary-color-text);
+
+                .ParentLink {
+                    color: var(--primary-color);
+                }
+            }
+
+
+        }
+    }
+
+}

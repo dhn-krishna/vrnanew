@@ -1,0 +1,74 @@
+/*!
+
+=========================================================
+* VRNA Partner Application - v1.1.0
+=========================================================
+
+* Copyright 2021 VRNA
+
+* Coded by VRNA Team
+
+=========================================================
+
+* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+*/
+@import "../../../node_modules/primeflex/primeflex.css";
+@import "./mdc-light-indigo/theme.css";
+
+:root {
+    --bg-color      : #2c2c2c;
+    --vrna-primary  : #e1b924;
+    --vrna-secondary: #22bcee;
+}
+
+html {
+    height     : 100%;
+    overflow   : hidden;
+    font-family: var(--font-family);
+}
+
+body {
+    margin          : 0;
+    height          : 100%;
+    overflow        : hidden;
+    background-color: #ffffff;
+}
+
+.h-100 {
+    height: 100%;
+}
+
+.h-98 {
+    height: 98%;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.bg-w {
+    background-color: #ffffff;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+#root {
+    height: 100%;
+}
+
+h1,
+h2 {
+    padding: 0;
+    margin : 0px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.PageHeading {
+    font-size: 15px;
+}

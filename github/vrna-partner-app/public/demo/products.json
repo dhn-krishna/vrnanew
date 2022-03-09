@@ -1,0 +1,157 @@
+{
+	"data": [
+		{
+			"id": "1",
+			"code": "f230fh0g3",
+			"name": "Premam",
+			"description": "George, a teenager, loves the idea of being in love. This dream seems to be within his reach in his school days and even in his college days, but it fails to materialise. However, all is not lost yet!",
+			"image": "/demo/img/premam-poster.jpg",
+			"price": 65,
+			"category": "Accessories",
+			"quantity": 24,
+			"inventoryStatus": "INSTOCK",
+			"rating": 5,
+			"director": [
+				"Alphonse Puthren"
+			],
+			"stars": [
+				"Nivin Pauly",
+				"Sai Pallavi",
+				"Madonna Sebastian",
+				"Anupama Parameswaran"
+			],
+			"music": [
+				"Rajesh Murugesan"
+			],
+			"writer": [
+				"Alphonse Puthren"
+			],
+			"genres": [
+				"Comedy",
+				"Drama",
+				"Romance"
+			],
+			"producer": [
+				"C.V. Kumar"
+			],
+			"certificate": "12A",
+			"releaseDate": "29-May-2015",
+			"year": 2015
+		},
+		{
+			"id": "2",
+			"code": "nvklal433",
+			"name": "Mundasupatti",
+			"description": "A photographer gets into trouble in a village where photography is banned.",
+			"image": "/demo/img/mundasupatti-poster.jpg",
+			"price": 72,
+			"category": "Accessories",
+			"quantity": 61,
+			"inventoryStatus": "INSTOCK",
+			"rating": 4,
+			"director": [
+				"Ram Kumar"
+			],
+			"stars": [
+				"Vishnu vishal",
+				"Nandita Shwetha",
+				"Anand Raj",
+				"Anupama Parameswaran"
+			],
+			"music": [
+				"Sean Roldan"
+			],
+			"writer": [
+				"Ram Kumar"
+			],
+			"genres": [
+				"Comedy",
+				"Drama",
+				"Romance"
+			],
+			"producer": [
+				"C.V. Kumar"
+			],
+			"certificate": "U",
+			"releaseDate": "29-May-2015",
+			"year": 2014
+		},
+		{
+			"id": "3",
+			"code": "zz21cz3c1",
+			"name": "Trance",
+			"description": "An art auctioneer becomes mixed up with a group of criminals partners with a hypnotherapist in order to recover a lost painting.",
+			"image": "/demo/img/trance-poster.jpg",
+			"price": 79,
+			"category": "Fitness",
+			"quantity": 2,
+			"inventoryStatus": "LOWSTOCK",
+			"rating": 3,
+			"director": [
+				"Anwar Rasheed"
+			],
+			"stars": [
+				"Fahadh Faasil",
+				"Nazriya Nazim",
+				"Gautham Vasudev Menon",
+				"Sreenath Bhasi",
+				"Soubin Shahir"
+			],
+			"music": [
+				"Vinayakan",
+				"Jackson Vijayan",
+				"Sushin Shyam"
+			],
+			"writer": [
+				"Vincent Vadakkan"
+			],
+			"genres": [
+				"Drama",
+				"Action "
+			],
+			"producer": [
+				"C.V. Kumar"
+			],
+			"certificate": "u/A",
+			"releaseDate": "29-Feb-2020",
+			"year": 2020
+		},
+		{
+			"id": "4",
+			"code": "244wgerg2",
+			"name": "Happy Bhaag Jayegi",
+			"description": "After fleeing an arranged marriage, a feisty Indian woman finds herself stranded in Pakistan where the ex-governor's son helps reunite her with her boyfriend.",
+			"image": "/demo/img/happy-bhag-jayegi-poster.jpg",
+			"price": 29,
+			"category": "Clothing",
+			"quantity": 25,
+			"inventoryStatus": "INSTOCK",
+			"rating": 5,
+			"director": [
+				"Mudassar Aziz"
+			],
+			"stars": [
+				"Diana Penty",
+				"Abhay Deol",
+				"Jimmy Sheirgill"
+			],
+			"music": [
+				"Sohail Sen"
+			],
+			"writer": [
+				"Mudassar Aziz"
+			],
+			"genres": [
+				"Comedy",
+				"Romance"
+			],
+			"producer": [
+				"Aanand L. Rai",
+				"‎Krishika Lulla"
+			],
+			"certificate": "18+",
+			"releaseDate": "29-August-2016",
+			"year": 2016
+		}
+	]
+}

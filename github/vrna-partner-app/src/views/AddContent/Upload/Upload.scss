@@ -1,0 +1,24 @@
+.UploadModule {
+    #wrapper {
+        text-align: center;
+        margin    : 0 auto;
+        padding   : 0px;
+        width     : 100%;
+    }
+
+    #output_image {
+        max-width: 300px;
+    }
+
+    .upload-poster-btn {
+        //
+    }
+
+    .poster-img {
+        padding      : 10px;
+        border-radius: 5px;
+        border       : 1px solid #e4e4e4;
+        width        : 100%;
+    }
+
+}

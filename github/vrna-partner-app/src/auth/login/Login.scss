@@ -1,0 +1,65 @@
+.Login {
+    position: relative;
+
+    // background: linear-gradient(145deg, #191919 50%, #22bcee 50%) !important;
+    .LeftPanel {
+        background-color: var(--bg-color);
+
+        .LeftImage {
+            background-image   : url('../../assets/images/bfr_login.jpg');
+            background-size    : cover;
+            height             : 100%;
+            background-position: 50% 50%;
+        }
+    }
+
+    .RightPanel {
+        background: linear-gradient(0deg, #070b0d 5%, #19272f 50%, #070a0d 95%);
+
+        .logo {
+            img {
+                width    : 100%;
+                max-width: 275px;
+            }
+        }
+
+        .login-form {
+            min-width    : 350px;
+            border-radius: 5px;
+
+            label {
+                color: #fff;
+            }
+        }
+    }
+
+    .ForgotPassword {
+        color: #fff;
+    }
+
+    footer {
+        font-size     : 12px;
+        letter-spacing: 0.2px;
+        color         : #fff;
+    }
+}
+
+@media only screen and (min-width: 1280px) {
+    .logo {
+        img {
+            max-width: 225px;
+        }
+    }
+
+    .login-form {
+        min-width: 40% !important;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    .logo {
+        img {
+            max-width: 150px;
+        }
+    }
+}

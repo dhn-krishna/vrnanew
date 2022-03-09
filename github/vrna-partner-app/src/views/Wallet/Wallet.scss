@@ -1,0 +1,31 @@
+.Wallet {
+    .balance-card {
+        border-radius: 5px;
+        max-width    : 350px;
+        margin       : auto;
+
+        .balance-title {
+            font-size  : 16px;
+            font-weight: 600;
+            line-height: 2;
+            color: grey;
+        }
+
+        .balance-number {
+            font-size  : 25px;
+            font-weight: bold;
+            color      : var(--bg-color);
+            line-height: 3;
+            letter-spacing: 1.5px;
+        }
+
+        .balance-btn {
+            cursor          : pointer;
+            padding         : 10px 20px;
+            border          : 0;
+            border-radius   : 5px;
+            font-size       : 16px;
+            background-color: var(--vrna-primary);
+        }
+    }
+}

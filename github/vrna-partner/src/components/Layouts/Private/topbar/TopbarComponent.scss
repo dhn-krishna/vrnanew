@@ -1,0 +1,16 @@
+.TopbarComponent {
+    height: 60px;
+    .VrnaLogo {
+        text-align: center;
+        .logo {
+            img {
+                height : 40px;
+                margin-left: 15px;
+            }
+        }
+        }
+
+        .p-menubar {
+            background: var(--bg-color);
+    }
+}

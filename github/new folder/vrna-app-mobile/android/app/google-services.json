@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "708028973520",
+    "project_id": "social-auth-e522d",
+    "storage_bucket": "social-auth-e522d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708028973520:android:b05fbf5a0ba8d5ad5679d5",
+        "android_client_info": {
+          "package_name": "com.example.vrna_app_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708028973520-afnu3uui0tvmh5o5mhk1n8a9vgo0086f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOFMU4Xoi8doEzVGerLlUYYhCOo5ZiH4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708028973520-afnu3uui0tvmh5o5mhk1n8a9vgo0086f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
